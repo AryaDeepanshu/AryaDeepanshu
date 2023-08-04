@@ -8,6 +8,6 @@ My Github Stats
 
 [![Deepanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AryaDeepanshu&theme=radical&rank_icon=github)](https://github.com/AryaDeepanshu/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaDeepanshu&layout=compact&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaDeepanshu&layout=compact&theme=radical) -->
 
 [![](https://visitcount.itsvg.in/api?id=AryaDeepanshu&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in) 
